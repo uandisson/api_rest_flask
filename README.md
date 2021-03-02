@@ -3,4 +3,4 @@
 ## Dependências
 	Python 3.8
 	Flask - 
-	DB
+	Mongo DB 4.2
